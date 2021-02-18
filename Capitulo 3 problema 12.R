@@ -28,7 +28,9 @@ df
 plot(modelo$residuals)
 abline(h=0)
 
-plot(df$Trat,modelo$residuals)
+plot(modelo$residuals)
+
+
 
 
 
